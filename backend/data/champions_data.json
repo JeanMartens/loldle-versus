@@ -1,0 +1,2799 @@
+[
+    {
+        "Champion": "Aatrox",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Aatrox.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Darkin"
+        ],
+        "Ressource": "Sans Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Runeterra",
+            "Shurima"
+        ],
+        "Année de sortie": "2013"
+    },
+    {
+        "Champion": "Ahri",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ahri.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Vastaya"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Akali",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Akali.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Énergie",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Akshan",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Akshan.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2021"
+    },
+    {
+        "Champion": "Alistar",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Alistar.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Minotaure"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus",
+            "Runeterra"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Ambessa",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ambessa.png",
+        "Genre": "Feminin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Énergie",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus",
+            "Piltover"
+        ],
+        "Année de sortie": "2024"
+    },
+    {
+        "Champion": "Amumu",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Amumu.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Mort-vivant",
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Anivia",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Anivia.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Dieu",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Annie",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Annie.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus",
+            "Runeterra"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Aphelios",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Aphelios.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Targon"
+        ],
+        "Année de sortie": "2019"
+    },
+    {
+        "Champion": "Ashe",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ashe.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain",
+            "Né de glace"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Aurelion Sol",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/AurelionSol.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Céleste",
+            "Dragon"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Runeterra",
+            "Targon"
+        ],
+        "Année de sortie": "2016"
+    },
+    {
+        "Champion": "Aurora",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Aurora.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Vastaya"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2024"
+    },
+    {
+        "Champion": "Azir",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Azir.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Dieu-Guerrier"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2014"
+    },
+    {
+        "Champion": "Bard",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Bard.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Céleste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Runeterra"
+        ],
+        "Année de sortie": "2015"
+    },
+    {
+        "Champion": "Bel'Veth",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Belveth.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Être du néant"
+        ],
+        "Ressource": "Sans Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Le Néant"
+        ],
+        "Année de sortie": "2022"
+    },
+    {
+        "Champion": "Blitzcrank",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Blitzcrank.png",
+        "Genre": "Autre",
+        "Rôle": "Support",
+        "Espèce": [
+            "Golem"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Brand",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Brand.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Freljord",
+            "Runeterra"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Braum",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Braum.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Né de glace"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2014"
+    },
+    {
+        "Champion": "Briar",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Briar.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Golem"
+        ],
+        "Ressource": "Coûts de santé",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2023"
+    },
+    {
+        "Champion": "Caitlyn",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Caitlyn.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Piltover"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Camille",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Camille.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Haut"
+        ],
+        "Espèce": [
+            "Cyborg",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Piltover"
+        ],
+        "Année de sortie": "2016"
+    },
+    {
+        "Champion": "Cassiopeia",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Cassiopeia.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Milieu",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus",
+            "Shurima"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Cho'Gath",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Chogath.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Être du néant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Le Néant"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Corki",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Corki.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bandle",
+            "Piltover"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Darius",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Darius.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Diana",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Diana.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Jungle",
+            "Milieu"
+        ],
+        "Espèce": [
+            "Hôte",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Targon"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Dr. Mundo",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/DrMundo.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Haut"
+        ],
+        "Espèce": [
+            "Altéré Chimiquement",
+            "Humain"
+        ],
+        "Ressource": "Coûts de santé",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Draven",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Draven.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Ekko",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ekko.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Milieu"
+        ],
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2015"
+    },
+    {
+        "Champion": "Elise",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Elise.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Jungle",
+            "Support"
+        ],
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": [
+            "Mêlée",
+            "À distance"
+        ],
+        "Région(s)": [
+            "Noxus",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Evelynn",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Evelynn.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Démon",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Runeterra"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Ezreal",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ezreal.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Piltover"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Nunu et Willump",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Nunu.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain",
+            "Yeti"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Fiddlesticks",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Fiddlesticks.png",
+        "Genre": "Autre",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Démon",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Runeterra"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Fiora",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Fiora.png",
+        "Genre": "Feminin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Fizz",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Fizz.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Miss Fortune",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/MissFortune.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Twisted Fate",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/TwistedFate.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Galio",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Galio.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Golem"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Gangplank",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Gangplank.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Garen",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Garen.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Sans Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Gnar",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Gnar.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Rage",
+        "Type de portée": [
+            "Mêlée",
+            "À distance"
+        ],
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2014"
+    },
+    {
+        "Champion": "Gragas",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Gragas.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain",
+            "Né de glace"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Graves",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Graves.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Gwen",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Gwen.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Jungle",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Camavor",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2021"
+    },
+    {
+        "Champion": "Renata Glasc",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Renata.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Altéré Chimiquement",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2022"
+    },
+    {
+        "Champion": "Hecarim",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Hecarim.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Mort-vivant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Camavor",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Heimerdinger",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Heimerdinger.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Milieu",
+            "Haut"
+        ],
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Piltover"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Hwei",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Hwei.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2023"
+    },
+    {
+        "Champion": "Illaoi",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Illaoi.png",
+        "Genre": "Feminin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2015"
+    },
+    {
+        "Champion": "Irelia",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Irelia.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Milieu",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Ivern",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ivern.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Freljord",
+            "Ionia"
+        ],
+        "Année de sortie": "2016"
+    },
+    {
+        "Champion": "Jarvan IV",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/JarvanIV.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Janna",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Janna.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Dieu",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Shurima",
+            "Zaun"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Jax",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Jax.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Haut"
+        ],
+        "Espèce": [
+            "Inconnu"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": "Icathia,Runeterra,Shurima",
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Jayce",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Jayce.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": [
+            "Mêlée",
+            "À distance"
+        ],
+        "Région(s)": [
+            "Piltover"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Jhin",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Jhin.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2016"
+    },
+    {
+        "Champion": "Jinx",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Jinx.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Altéré Chimiquement",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2013"
+    },
+    {
+        "Champion": "K'Santé",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/KSante.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2022"
+    },
+    {
+        "Champion": "Kai'Sa",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Kaisa.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain",
+            "Être du néant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Shurima",
+            "Le Néant"
+        ],
+        "Année de sortie": "2018"
+    },
+    {
+        "Champion": "Kalista",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Kalista.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Mort-vivant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Camavor",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2014"
+    },
+    {
+        "Champion": "Karma",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Karma.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Karthus",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Karthus.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Mort-vivant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Kassadin",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Kassadin.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Être du néant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Shurima",
+            "Le Néant"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Katarina",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Katarina.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Sans Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Kayle",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Kayle.png",
+        "Genre": "Feminin",
+        "Rôle": "Haut",
+        "Espèce": "Hôte,Humain,Altéré Magiquement",
+        "Ressource": "Mana",
+        "Type de portée": [
+            "Mêlée",
+            "À distance"
+        ],
+        "Région(s)": [
+            "Demacia",
+            "Targon"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Kayn",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Kayn.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": "Darkin,Humain,Altéré Magiquement",
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": "Ionia,Noxus,Runeterra,Shurima",
+        "Année de sortie": "2017"
+    },
+    {
+        "Champion": "Kennen",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Kennen.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Milieu",
+            "Haut"
+        ],
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Énergie",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Kha'Zix",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Khazix.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Être du néant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Le Néant"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Kindred",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Kindred.png",
+        "Genre": "Autre",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Dieu",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Runeterra"
+        ],
+        "Année de sortie": "2015"
+    },
+    {
+        "Champion": "Kled",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Kled.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Courage",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2016"
+    },
+    {
+        "Champion": "Kog'Maw",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/KogMaw.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Être du néant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Le Néant"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Tahm Kench",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/TahmKench.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Support",
+            "Haut"
+        ],
+        "Espèce": [
+            "Démon",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Bilgewater",
+            "Runeterra"
+        ],
+        "Année de sortie": "2015"
+    },
+    {
+        "Champion": "LeBlanc",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Leblanc.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Lee Sin",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/LeeSin.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Énergie",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Leona",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Leona.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Hôte",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Targon"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Lillia",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Lillia.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2020"
+    },
+    {
+        "Champion": "Lissandra",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Lissandra.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Né de glace"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2013"
+    },
+    {
+        "Champion": "Lucian",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Lucian.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Demacia",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2013"
+    },
+    {
+        "Champion": "Lulu",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Lulu.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bandle"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Lux",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Lux.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Milieu",
+            "Support"
+        ],
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Malphite",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Malphite.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Golem"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ixtal",
+            "Shurima"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Malzahar",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Malzahar.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Être du néant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Shurima",
+            "Le Néant"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Maokai",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Maokai.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Maître Yi",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/MasterYi.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Mel",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Mel.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Milieu",
+            "Support"
+        ],
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus",
+            "Piltover"
+        ],
+        "Année de sortie": "2025"
+    },
+    {
+        "Champion": "Milio",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Milio.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ixtal"
+        ],
+        "Année de sortie": "2023"
+    },
+    {
+        "Champion": "Mordekaiser",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Mordekaiser.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Revenant"
+        ],
+        "Ressource": "Bouclier",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Morgana",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Morgana.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Milieu",
+            "Support"
+        ],
+        "Espèce": "Hôte,Humain,Altéré Magiquement",
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Demacia",
+            "Targon"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Naafiri",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Naafiri.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Jungle",
+            "Milieu"
+        ],
+        "Espèce": [
+            "Darkin",
+            "Chien"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2023"
+    },
+    {
+        "Champion": "Nami",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Nami.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Vastaya"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bilgewater",
+            "Runeterra"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Nasus",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Nasus.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Dieu-Guerrier"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Nautilus",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Nautilus.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Revenant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Neeko",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Neeko.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Vastaya"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ixtal"
+        ],
+        "Année de sortie": "2018"
+    },
+    {
+        "Champion": "Nidalee",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Nidalee.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": [
+            "Mêlée",
+            "À distance"
+        ],
+        "Région(s)": [
+            "Ixtal"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Nilah",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Nilah.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2022"
+    },
+    {
+        "Champion": "Nocturne",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Nocturne.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Démon",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Runeterra"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Olaf",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Olaf.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain",
+            "Né de glace"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Orianna",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Orianna.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Golem"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Piltover"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Ornn",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ornn.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Dieu",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2017"
+    },
+    {
+        "Champion": "Pantheon",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Pantheon.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle,Support,Haut",
+        "Espèce": [
+            "Hôte",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Targon"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Poppy",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Poppy.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Support",
+            "Haut"
+        ],
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Pyke",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Pyke.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Revenant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Bilgewater"
+        ],
+        "Année de sortie": "2018"
+    },
+    {
+        "Champion": "Qiyana",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Qiyana.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Jungle",
+            "Milieu"
+        ],
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ixtal"
+        ],
+        "Année de sortie": "2019"
+    },
+    {
+        "Champion": "Quinn",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Quinn.png",
+        "Genre": "Feminin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2013"
+    },
+    {
+        "Champion": "Rakan",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Rakan.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Vastaya"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2017"
+    },
+    {
+        "Champion": "Rammus",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Rammus.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Inconnu"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Rek'Sai",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/RekSai.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Être du néant"
+        ],
+        "Ressource": "Rage",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Shurima",
+            "Le Néant"
+        ],
+        "Année de sortie": "2014"
+    },
+    {
+        "Champion": "Rell",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Rell.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": "Humain,Altéré Magiquement,Né magique",
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2020"
+    },
+    {
+        "Champion": "Renekton",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Renekton.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Dieu-Guerrier"
+        ],
+        "Ressource": "Furie",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Rengar",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Rengar.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Vastaya"
+        ],
+        "Ressource": "Férocité",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ixtal",
+            "Shurima"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Riven",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Riven.png",
+        "Genre": "Feminin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Sans Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia",
+            "Noxus"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Rumble",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Rumble.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Vapeur",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Bandle"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Ryze",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ryze.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Runeterra"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Samira",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Samira.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus",
+            "Shurima"
+        ],
+        "Année de sortie": "2020"
+    },
+    {
+        "Champion": "Sejuani",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Sejuani.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain",
+            "Né de glace"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Senna",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Senna.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Mort-vivant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2019"
+    },
+    {
+        "Champion": "Séraphine",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Seraphine.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Piltover",
+            "Zaun"
+        ],
+        "Année de sortie": "2020"
+    },
+    {
+        "Champion": "Sett",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Sett.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain",
+            "Vastaya"
+        ],
+        "Ressource": "Agressivité",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2020"
+    },
+    {
+        "Champion": "Shaco",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Shaco.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Support"
+        ],
+        "Espèce": [
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Runeterra"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Shen",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Shen.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Support",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Énergie",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Shyvana",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Shyvana.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Dragon",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Furie",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Singed",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Singed.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Altéré Chimiquement",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Piltover",
+            "Zaun"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Sion",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Sion.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Revenant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Sivir",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Sivir.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Skarner",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Skarner.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Brackern"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ixtal"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Smolder",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Smolder.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Dragon"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Camavor",
+            "Noxus"
+        ],
+        "Année de sortie": "2024"
+    },
+    {
+        "Champion": "Sona",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Sona.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Demacia",
+            "Ionia"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Soraka",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Soraka.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Céleste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia",
+            "Targon"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Swain",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Swain.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Sylas",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Sylas.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Milieu"
+        ],
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Demacia",
+            "Freljord"
+        ],
+        "Année de sortie": "2019"
+    },
+    {
+        "Champion": "Syndra",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Syndra.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Taliyah",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Taliyah.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2016"
+    },
+    {
+        "Champion": "Talon",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Talon.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Milieu"
+        ],
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Noxus"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Taric",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Taric.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Hôte",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Demacia",
+            "Targon"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Teemo",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Teemo.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bandle"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Thresh",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Thresh.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Mort-vivant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2013"
+    },
+    {
+        "Champion": "Tristana",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Tristana.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bandle"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Trundle",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Trundle.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Haut"
+        ],
+        "Espèce": [
+            "Né de glace",
+            "Troll"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Tryndamere",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Tryndamere.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Furie",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Twitch",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Twitch.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Altéré Chimiquement",
+            "Rat"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Udyr",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Udyr.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord",
+            "Ionia"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Urgot",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Urgot.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": "Altéré Chimiquement,Cyborg,Humain",
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Noxus",
+            "Zaun"
+        ],
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Varus",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Varus.png",
+        "Genre": "Masculin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Darkin",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": "Ionia,Runeterra,Shurima",
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Vayne",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Vayne.png",
+        "Genre": "Feminin",
+        "Rôle": [
+            "Bas",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Demacia"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Veigar",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Veigar.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": "Bandle,Runeterra,Îles Obscures",
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Vel'Koz",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Velkoz.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Milieu",
+            "Support"
+        ],
+        "Espèce": [
+            "Être du néant"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Le Néant"
+        ],
+        "Année de sortie": "2014"
+    },
+    {
+        "Champion": "Vex",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Vex.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bandle",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2021"
+    },
+    {
+        "Champion": "Vi",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Vi.png",
+        "Genre": "Feminin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Piltover",
+            "Zaun"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Viego",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Viego.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Mort-vivant"
+        ],
+        "Ressource": "Sans Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Camavor",
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2021"
+    },
+    {
+        "Champion": "Viktor",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Viktor.png",
+        "Genre": "Masculin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Cyborg",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Piltover",
+            "Zaun"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Vladimir",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Vladimir.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Milieu",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Soif de sang",
+        "Type de portée": "À distance",
+        "Région(s)": "Camavor,Noxus,Îles Obscures",
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Volibear",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Volibear.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Haut"
+        ],
+        "Espèce": [
+            "Dieu",
+            "Esprit"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Freljord"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Warwick",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Warwick.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": "Altéré Chimiquement,Cyborg,Humain",
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Wukong",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/MonkeyKing.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Vastaya"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Xayah",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Xayah.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Vastaya"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2017"
+    },
+    {
+        "Champion": "Xerath",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Xerath.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Milieu",
+            "Support"
+        ],
+        "Espèce": [
+            "Baccai"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Shurima"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Xin Zhao",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/XinZhao.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": "Demacia,Ionia,Noxus",
+        "Année de sortie": "2010"
+    },
+    {
+        "Champion": "Yasuo",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Yasuo.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Milieu",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Vent",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2013"
+    },
+    {
+        "Champion": "Yone",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Yone.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Milieu",
+            "Haut"
+        ],
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Sans Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2020"
+    },
+    {
+        "Champion": "Yorick",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Yorick.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Îles Obscures"
+        ],
+        "Année de sortie": "2011"
+    },
+    {
+        "Champion": "Yunara",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Yunara.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain",
+            "Spiritualiste"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2025"
+    },
+    {
+        "Champion": "Yuumi",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Yuumi.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Chat",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Bandle"
+        ],
+        "Année de sortie": "2019"
+    },
+    {
+        "Champion": "Zaahen",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Zaahen.png",
+        "Genre": "Masculin",
+        "Rôle": "Haut",
+        "Espèce": [
+            "Darkin",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia",
+            "Shurima"
+        ],
+        "Année de sortie": "2025"
+    },
+    {
+        "Champion": "Zac",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Zac.png",
+        "Genre": "Masculin",
+        "Rôle": "Jungle",
+        "Espèce": [
+            "Golem"
+        ],
+        "Ressource": "Coûts de santé",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2013"
+    },
+    {
+        "Champion": "Zed",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Zed.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Jungle",
+            "Milieu"
+        ],
+        "Espèce": [
+            "Humain",
+            "Altéré Magiquement"
+        ],
+        "Ressource": "Énergie",
+        "Type de portée": "Mêlée",
+        "Région(s)": [
+            "Ionia"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Zeri",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Zeri.png",
+        "Genre": "Feminin",
+        "Rôle": "Bas",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2022"
+    },
+    {
+        "Champion": "Ziggs",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Ziggs.png",
+        "Genre": "Masculin",
+        "Rôle": [
+            "Bas",
+            "Milieu"
+        ],
+        "Espèce": [
+            "Yordle"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Zaun"
+        ],
+        "Année de sortie": "2012"
+    },
+    {
+        "Champion": "Zilean",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Zilean.png",
+        "Genre": "Masculin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Né magique"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": "Icathia,Runeterra,Shurima",
+        "Année de sortie": "2009"
+    },
+    {
+        "Champion": "Zoé",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Zoe.png",
+        "Genre": "Feminin",
+        "Rôle": "Milieu",
+        "Espèce": [
+            "Hôte",
+            "Humain"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Targon"
+        ],
+        "Année de sortie": "2017"
+    },
+    {
+        "Champion": "Zyra",
+        "Image": "https://ddragon.leagueoflegends.com/cdn/16.3.1/img/champion/Zyra.png",
+        "Genre": "Feminin",
+        "Rôle": "Support",
+        "Espèce": [
+            "Humain",
+            "Plante"
+        ],
+        "Ressource": "Mana",
+        "Type de portée": "À distance",
+        "Région(s)": [
+            "Ixtal"
+        ],
+        "Année de sortie": "2012"
+    }
+]
